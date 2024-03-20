@@ -13,3 +13,16 @@ objectives are as follows:
 
 Data Reference:
 Basketball Reference Stats Year 2022 - 2023: https://www.basketballreference.com/leagues/NBA_2023.html
+
+Dashboard:
+
+<img width="463" alt="image" src="https://github.com/shristisahoo/NBA-Performance-Year-2022---2023/assets/77921182/c8007953-63dc-4b9a-b2cb-dade9a24c52a">
+
+<img width="451" alt="image" src="https://github.com/shristisahoo/NBA-Performance-Year-2022---2023/assets/77921182/c2858dc0-1f05-4e12-b19b-d2305b9be399">
+
+<img width="473" alt="image" src="https://github.com/shristisahoo/NBA-Performance-Year-2022---2023/assets/77921182/aa6696cc-a778-49aa-b178-3cb692accad8">
+
+<img width="469" alt="image" src="https://github.com/shristisahoo/NBA-Performance-Year-2022---2023/assets/77921182/96999922-539d-4044-91bb-11315f24e613">
+
+
+
